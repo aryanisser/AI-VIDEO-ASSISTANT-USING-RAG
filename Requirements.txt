@@ -1,0 +1,63 @@
+# Core
+python-dotenv
+requests
+
+# Streamlit UI
+streamlit
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Mistral API
+mistralai
+
+# RAG
+chromadb
+langchain-huggingface
+sentence-transformers
+huggingface-hub
+
+# Embeddings
+transformers
+torch
+
+# Whisper Speech-to-Text
+openai-whisper
+ffmpeg-python
+
+# Audio Processing
+pydub
+
+# YouTube Download
+yt-dlp
+
+# Translation
+deep-translator
+
+# PDF Export
+reportlab
+
+# Text Processing
+tiktoken
+
+# Vector Store
+numpy
+pandas
+
+# Optional (faster inference)
+accelerate
+
+# Document Loading
+unstructured
+
+# Chroma Dependencies
+onnxruntime
+
+# LangChain Integrations
+langchain-chroma
+
+# Utilities
+tqdm
